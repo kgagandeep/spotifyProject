@@ -1,0 +1,15 @@
+{
+	"name": "gaganspotifyDF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "669604ec-5ee1-4d2f-9296-9e9a6826626c",
+		"tenantId": "b647c119-f623-49bd-b702-29e3c05e9feb"
+	}
+}
